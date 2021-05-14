@@ -1,0 +1,14 @@
+{
+  "name": "pulablog-audio-player",
+  "version": "0.1.0",
+  "description": "This is an audio player for my music and podcasts.",
+  "main": "js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jim Carroll",
+  "license": "MIT",
+  "dependencies": {
+    "soundcloud": "^0.2.0"
+  }
+}
